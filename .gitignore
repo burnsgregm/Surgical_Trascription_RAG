@@ -1,0 +1,10 @@
+.env
+
+# Python specific
+venv/
+__pycache__/
+*.pyc
+
+# Local development folders - DO NOT UPLOAD
+uploads/
+render_disk/
