@@ -7,3 +7,4 @@ __pycache__/
 
 # Local development folders - DO NOT UPLOAD
 uploads/
+render_disk/
